@@ -3,7 +3,7 @@ namespace Grav\Theme;
 
 use Grav\Common\Theme;
 
-class Lingonberry extends Theme
+class Blueberry extends Theme
 {
 
 }
