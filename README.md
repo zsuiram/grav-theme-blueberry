@@ -1,4 +1,4 @@
-# Lingonberry Theme for Grav
+# Blueberry Theme for Grav
 
 ![Lingonberry](assets/readme_1.png)
 
