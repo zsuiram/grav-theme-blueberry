@@ -1,13 +1,13 @@
-name: Lingonberry
-version: 1.1.0
-description: "A clean and simple theme for bloggers, with responsive design and beautiful typography."
+name: Blueberry
+version: 1.0.0
+description: "A much cleaner, simpler and responsive theme for bloggers. No XHRs to gravatar or other crap. Features: responsive design, retina ready assets, custom styling for all post formats, custom page templates and custom accent color."
 icon: group
 author:
-  name: Team Grav
-  email: devs@getgrav.org
-  url: http://getgrav.org
-homepage: https://github.com/getgrav/grav-theme-lingonberry
-demo: http://demo.getgrav.org/lingonberry-skeleton
-keywords: lingonberry, theme, onepage, modern, fast, responsive, html5, css3
-bugs: https://github.com/getgrav/grav-theme-lingonberry/issues
+  name: Mariusz Kaczmarek
+  email: devs@g.b0i.de
+  url: https://g.b0i.de
+homepage: https://github.com/zsuiram/grav-theme-blueberry
+demo: http://g.b0i.de
+keywords: blueberry, lingonberry, theme, onepage, modern, fast, responsive, html5, css3
+bugs: https://g.b0i.de/imprint
 license: GPL
