@@ -2,7 +2,7 @@
 
 ![Blueberry](assets/readme_1.png)
 
-A clean and simple theme for bloggers, with responsive design and beautiful typography by [Anders Norén](http://www.andersnoren.se/teman/blueberry-wordpress-theme/).
+A clean and simple theme for bloggers, with responsive design and beautiful typography by [Anders Norén].
 
 # Features
 
