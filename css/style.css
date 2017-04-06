@@ -102,12 +102,12 @@ body {
 }
 
 body a {
-	color: #FF706C;
+	color: #8a334e;
 	text-decoration: none;
 }
 
 body a:hover {
-	color: #FF706C;
+	color: #8a4333;
 	text-decoration: none;
 }
 
@@ -225,8 +225,8 @@ input#s {
 	width: 800px;
 	margin: 0 auto;
 }
-
-.header { background: #FF706C; }
+/* http://rgb.to/pantone/metallic/8785-c */
+.header { background: #334e8a; }
 
 .header-inner {
 	padding: 50px 0;
@@ -831,13 +831,13 @@ html[xmlns] .slides { display: block; }
 
 .post-nav {
 	padding: 4% 5.5%;
-	background: #2D3642;
+	background: #f1f1f1;
 }
 
 .post-nav a {
 	padding: 15px 20px;
 	margin: 1.5% 0;
-	background: #f1f1f1;
+	background: #999;
 	border-radius: 3px;
 	color: #FFF;
 	float: left;
@@ -847,7 +847,7 @@ html[xmlns] .slides { display: block; }
 .post-nav .post-nav-newer { float: right; }
 
 .post-nav a:hover, .post-nav a.current {
-	background: #FF706C;
+	background: #8a334e;
 	color: #FFF;
 }
 .pagination a {

@@ -4,10 +4,10 @@ description: "A much cleaner, simpler and responsive theme for bloggers. No XHRs
 icon: group
 author:
   name: Mariusz Kaczmarek
-  email: devs@g.b0i.de
+  email: theme@g.b0i.de
   url: https://g.b0i.de
 homepage: https://github.com/zsuiram/grav-theme-blueberry
-demo: http://g.b0i.de
+demo: https://g.b0i.de
 keywords: blueberry, lingonberry, theme, onepage, modern, fast, responsive, html5, css3
 bugs: https://g.b0i.de/imprint
 license: GPL
